@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to tech
 - 📫 How to reach me: email : pi.shubham1592@gmail.com ; linkedin : https://www.linkedin.com/in/shubhamkumar1592/
 - 😄 Alias Name: Righley
-- ⚡ Fun fact: I spend almost 2-3 hours in playing chess daily.
+- ⚡ Fun fact: I spend almost 2-3 hours playing chess, daily.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=shubham1592&&show_icons=true&title_color=5dad2f&icon_color=436abf&text_color=daf7dc&bg_color=151515">
