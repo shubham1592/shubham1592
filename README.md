@@ -2,7 +2,7 @@ Hey, I am Shubham!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a social media on Flutter
+- 🔭 I’m currently working on a social media app on Flutter
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Hackathons
 - 🤔 I’m looking for help with flutter documentation
