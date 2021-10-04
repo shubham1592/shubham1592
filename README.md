@@ -6,9 +6,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Hackathons
 - 🤔 I’m looking for help with flutter documentation
-- 💬 Ask me about anything related to tech
-- 📫 How to reach me: email : pi.shubham1592@gmail.com ; linkedin : https://www.linkedin.com/in/shubhamkumar1592/
-- 😄 Alias Name: Righley
 - ⚡ Fun fact: I spend almost 2-3 hours playing chess, daily.
 
 
